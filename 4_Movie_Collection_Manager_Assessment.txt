@@ -1,0 +1,130 @@
+MOVIE COLLECTION MANAGER
+AI-ASSISTED SOFTWARE ENGINEERING ASSESSMENT
+Duration: 150 Minutes
+
+DEVELOPMENT APPROACH
+Use GitHub Copilot, Claude Code, ChatGPT or VS Code Chat. Build the solution primarily through prompting and AI-assisted development.
+
+====================================================
+BUSINESS SCENARIO
+====================================================
+A movie enthusiast has a large personal movie collection containing films from different genres such as Action, Comedy, Drama, Thriller, and Science Fiction.
+
+Managing this collection manually has become difficult. The user wants a simple application to maintain movie details, track ratings, and analyze the collection.
+
+The application should allow users to add movies, browse the collection, identify highly rated movies, and view genre-wise statistics.
+
+You have been hired to develop a Movie Collection Management application.
+
+====================================================
+OBJECTIVE
+====================================================
+Build a Movie Collection Manager application using SQLite database.
+
+====================================================
+TECHNOLOGY STACK
+====================================================
+Mandatory:
+- Python
+- Streamlit
+- SQLite
+- Virtual Environment
+- Git
+
+====================================================
+DATABASE REQUIREMENTS
+====================================================
+Create database: movies.db
+Create table: movies
+Columns:
+- movie_id
+- movie_name
+- genre
+- rating
+- release_year
+
+====================================================
+FUNCTIONAL REQUIREMENTS
+====================================================
+FEATURE 1: Add Movie
+Input Fields:
+- Movie Name
+- Genre
+- Rating
+- Release Year
+
+FEATURE 2: View Movies
+FEATURE 3: Average Rating
+FEATURE 4: Highest Rated Movie
+FEATURE 5: Genre-wise Summary
+====================================================
+EXPECTED WORKFLOW
+====================================================
+Step 1: Requirement Analysis
+Step 2: Database Design
+Step 3: Application Generation
+Step 4: Testing
+Step 5: Documentation
+Step 6: Git Operations
+
+====================================================
+SUBMISSION GUIDELINES
+====================================================
+1. Participants must maintain all prompts used during development.
+	EXAMPLE:
+	Prompt 1 - Requirements Generation
+	Prompt 2 - Database Design
+	Prompt 3 - Application Development
+2. DOCUMENTATION REQUIREMENTS
+	Project report should include:
+	1. Problem Statement
+	2. Features Implemented
+	3. Database Design
+	4. Screenshots
+	5. Prompts Used
+	6. Testing Performed
+	7. Learning Outcomes
+3. GIT ASSESSMENT (MANDATORY)
+	Participants must:
+	1. Initialize Repository
+	2. Commit Source Code
+	3. Create Branch: feature/category-summary
+	4. Commit Changes
+	5. Push Branch
+4. SCREENSHOT EVIDENCE REQUIRED
+	1. SQLite database successfully created
+	2. Record added successfully
+	3. View records page
+	4. Summary calculation
+	5. Category/Status summary
+	6. Git branch creation
+	7. Successful Git push
+
+====================================================
+EVALUATION CRITERIA (100 MARKS)
+====================================================
+PROMPT ENGINEERING - 25 Marks
+- Requirements Prompt: 5
+- Database Design Prompt: 5
+- Code Generation Prompt: 10
+- Improvement Prompts: 5
+DATABASE DESIGN - 15 Marks
+- Database Creation: 5
+- Table Design: 5
+- Data Storage & Retrieval: 5
+WORKING APPLICATION - 30 Marks
+- Feature 1: 10
+- Feature 2: 5
+- Feature 3: 5
+- Feature 4: 5
+- Feature 5: 5
+DOCUMENTATION - 10 Marks
+- Project Report: 5
+- README: 5
+SCREENSHOTS EVIDENCE - 10 Marks
+- All Screenshots Submitted: 10
+GIT USAGE - 10 Marks
+- Repository Creation: 3
+- Branch Creation: 3
+- Commit Quality: 2
+- Push Evidence: 2
