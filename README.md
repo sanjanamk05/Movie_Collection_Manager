@@ -173,3 +173,16 @@ Insert screenshot here showing the genre-wise summary output.
 ## 10. Notes
 
 The database schema is created automatically when the app launches, and the application is designed to be simple, modular, and easy to extend for future requirements such as editing, filtering, or export features.
+
+
+## SCREENSHOTS EVIDENCE
+
+## 1
+!["C:\Users\Sanjana\OneDrive\Pictures\Screenshots\SQLite database successfully created.png"](<SQLite database successfully created.png>)
+
+## 2
+!["C:\Users\Sanjana\OneDrive\Pictures\Screenshots\Record added successfully and View records page.png"](<Record added successfully and View records page.png>)
+
+## 3
+!["C:\Users\Sanjana\OneDrive\Pictures\Screenshots\Summary calculation and CategoryStatus summary.png"](<Summary calculation and CategoryStatus summary.png>)
+
